@@ -1,0 +1,41 @@
+/* *{
+    background-color: #d9eeee;
+} */
+.container{
+    display: grid;
+    position: relative;
+    align-items: center;
+    box-sizing: border-box;
+    margin: 30px;
+    margin-top: 0%;
+    margin-left: 10%;
+    margin-right: 105;
+}
+header{
+    display: grid;
+}
+nav{
+    position: absolute;
+    left: 60%;
+    top: 6%;
+    
+    
+}
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+    font-size: larger;
+    color: black;
+}
+
+.top{
+    box-sizing: border-box;
+    background-image:url(/images/bg-snowflakes.png);
+    background-repeat: repeat;
+    border-image-width: 100px;
+    background-color: #d9eeee;
+    padding: 100px;
+
+
+}
