@@ -251,3 +251,7 @@ footer{
 .br p{
     cursor: pointer;
 }
+
+@media (max-width:700px){
+    
+}
